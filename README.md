@@ -149,11 +149,10 @@
 
 <div align='center'>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pjh1011409&repo=pjh-shoppingmall)](https://github.com/pjh1011409/pjh-shoppingmall)&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pjh1011409&repo=pjh-community-site)](https://github.com/pjh1011409/pjh-community-site)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pjh1011409&repo=pjh-gameworld)](https://github.com/pjh1011409/pjh-gameworld)&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pjh1011409&repo=pjh-mywebsite)](https://github.com/pjh1011409/pjh-mywebsite) 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pjh1011409&repo=pjh-todolist)](https://github.com/pjh1011409/pjh-todolist)&nbsp;&nbsp;&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pjh1011409&repo=pjh-shoppingmall)](https://github.com/pjh1011409/pjh-shoppingmall)&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pjh1011409&repo=pjh-community-site)](https://github.com/pjh1011409/pjh-community-site)
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pjh1011409&repo=pjh-gameworld)](https://github.com/pjh1011409/pjh-gameworld)&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pjh1011409&repo=pjh-mywebsite)](https://github.com/pjh1011409/pjh-mywebsite) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pjh1011409&repo=pjh-todolist)](https://github.com/pjh1011409/pjh-todolist)
 
 </div>
 
@@ -179,7 +178,7 @@
 
 <div align='center'>
 
-![JeongHo Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjh1011409&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;[![GitHub Streak](https://streak-stats.demolab.com/?user=pjh1011409&theme=dark)](https://git.io/streak-stats)
+![JeongHo Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjh1011409&show_icons=true&theme=radical&height="100")[![GitHub Streak](https://streak-stats.demolab.com/?user=pjh1011409&theme=dark)](https://git.io/streak-stats)
 
 </div>
 
