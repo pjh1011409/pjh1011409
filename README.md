@@ -45,8 +45,6 @@
 <h3> 🛠 Tech Stack</h3>
 </div>
 
-<br>
-
 <div align='center'>
 <h4>   Main</h4>
 
@@ -86,7 +84,6 @@
 
 </p>
 
-<br>
 
 <h4>  Available  </h4>
 
@@ -114,8 +111,6 @@
 <img height="25" src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white">
 <img height="25" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
 
-<br>
-<br>
 
 <h4>  Studying  </h4>
 <img height="25" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
