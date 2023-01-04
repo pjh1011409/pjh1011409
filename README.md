@@ -123,38 +123,8 @@
 <img height="25" src="https://img.shields.io/badge/git Flow-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 <img height="25" src="https://img.shields.io/badge/BFF-7957D5?style=for-the-badge&logo=Buefy&logoColor=white">
 
- 
-
-
-                
-                
-
 </div>
 
-
-
-
-
-
-
-<br>
-
-------
-
-<div align='center'>
-<h3>🍀 My Repositories</h3>
-</div>
-
-<br>
-
-<div align='center'>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pjh1011409&repo=pjh-shoppingmall)](https://github.com/pjh1011409/pjh-shoppingmall)&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pjh1011409&repo=pjh-community-site)](https://github.com/pjh1011409/pjh-community-site)
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pjh1011409&repo=pjh-gameworld)](https://github.com/pjh1011409/pjh-gameworld)&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pjh1011409&repo=pjh-mywebsite)](https://github.com/pjh1011409/pjh-mywebsite) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pjh1011409&repo=pjh-todolist)](https://github.com/pjh1011409/pjh-todolist)
-
-</div>
 
 <br>
 
