@@ -89,12 +89,6 @@
 
 
 
-
-<h4>  Studying  </h4>
-<img height="25" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/git Flow-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-
 </div>
 
 
