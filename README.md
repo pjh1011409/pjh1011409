@@ -6,7 +6,7 @@
 
 
 <div align='center'>
-  <a href="https://www.notion.so/Hi-I-m-Park-Jeong-Ho-c95dc3cffa3343758aa4f4b115b99eeb">
+  <a href="https://pjh-portfolio.notion.site/Hi-I-m-Park-Jeong-Ho-c95dc3cffa3343758aa4f4b115b99eeb">
   <img height="25" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
   </a>
   <a href="https://velog.io/@pjh1011409">
@@ -16,7 +16,7 @@
    <img height="25" src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
   </a>
   
-  <a href="https://www.notion.so/PJH-s-Tech-Library-469d838d709c4015b84023e273901f3c">
+  <a href="https://pjh-portfolio.notion.site/PJH-s-Tech-Library-469d838d709c4015b84023e273901f3c">
   <img height="25" src="https://img.shields.io/badge/Tech Library-0288D1?style=for-the-badge&logo=BookStack&logoColor=white">
   </a>
   </p>
