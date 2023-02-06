@@ -41,8 +41,7 @@
 
 <img height="25" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
 <img height="25" src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=React Query&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/Recoil-0075EB?style=for-the-badge&logo=Revolut&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/SWR-008CDD?style=for-the-badge&logo=Swiper&logoColor=white">
+<img height="25" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white"> 
 <img height="25" src="https://img.shields.io/badge/REST API-75AADB?style=for-the-badge&logo=RStudio&logoColor=white">     
 
 <br>
@@ -72,14 +71,14 @@
 
 <h4>  Available  </h4>
 
-<img height="25" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-<img height="25" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&&logo=Firebase&logoColor=orange">
+<img height="25" src="https://img.shields.io/badge/Recoil-0075EB?style=for-the-badge&logo=Revolut&logoColor=white">
+<img height="25" src="https://img.shields.io/badge/SWR-008CDD?style=for-the-badge&logo=Swiper&logoColor=white">
 
 <br>
 
-<img height="25" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
-<img height="25" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white"> 
+<img height="25" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+<img height="25" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+<img height="25" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&&logo=Firebase&logoColor=orange">
 
 <br>
 
